@@ -26,8 +26,7 @@ A basic website application designed for tallying the quantity of yarn balls acr
   <li>Variables</li>
   <li>Increment and Decrement</li>
   <li>Functions</li>
-  <li>Updating Display Elements
-  <li></li>
+  <li>Updating Display Elements</li>
 </ul>
 
 <h2>Acknowledgements</h2>
